@@ -7,6 +7,7 @@ The elements:
 2. Minutes - represented by the turrets in the testing tube.
 3. Hours - represented by the number of turned on monitors.
 Additionaly, the lighting is also dynamic and changes according to the time of day.
+
 The clock has a UI that triggers several options with button presses/keyboard keys presses:
 1. Reset (R) - resets the clock.
 2. Default Cam (1) - changes the camera to scene facing view (default).
